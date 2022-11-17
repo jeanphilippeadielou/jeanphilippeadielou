@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jeanphilippeadielou
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Python and SQL
-- 👨🏾‍💻 I'm studying engineering
-- 📫 How to reach me jean-philippe.adielou@polymtl.ca
+- 👋 Hi, I’m Jean-Philippe
+- 👀 I’m interested in Machine Learning research
+- 🌱 I’m currently completing a master's degree
+- 👨🏾‍💻 I'm studying Computer Engineering
+- 📫 How to reach me?: jeanphilippeadielou@gmail.com
 
 <!---
 jeanphilippeadielou/jeanphilippeadielou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
