@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jean-Philippe
-- 👀 I’m interested in Machine Learning research
+- 👀 I’m interested in Machine Learning 🤖 & Computer Vision 👀
 - 🌱 I’m currently completing a master's degree
-- 👨🏾‍💻 I'm studying Computer Engineering
+- 👨🏾‍💻 I'm studying Applied Mathematics & Computer Science
 - 📫 How to reach me?: jeanphilippeadielou@gmail.com
 
 <!---
