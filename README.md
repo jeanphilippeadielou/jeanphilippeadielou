@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Jean-Philippe
-- 👀 I’m interested in Machine Learning 🤖 & Computer Vision 👀
-- 🌱 I’m currently completing a master's degree
-- 👨🏾‍💻 I'm studying Applied Mathematics & Computer Science
-- 📫 How to reach me?: jeanphilippeadielou@gmail.com
+Hi, I’m Jean-Philippe
+I’m interested in Linear Algebra, Representation Learning 🤖 & Computer Vision 👀
+🌱 I’m currently completing a master's degree 👨🏾‍💻
 
 <!---
 jeanphilippeadielou/jeanphilippeadielou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
